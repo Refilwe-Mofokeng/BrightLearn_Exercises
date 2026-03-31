@@ -61,7 +61,7 @@ Combined multiple SQL concepts to solve more complex problems:
 - Filtering with `WHERE`
 - Logical operators (`AND`, `OR`, `NOT`, `IN`)
 - Aggregations with `GROUP BY` and `HAVING`
-- ORDER BY
+- `ORDER BY`
 
 Objective:  
 Understand how to combine datasets and perform multi-step analysis across tables.
